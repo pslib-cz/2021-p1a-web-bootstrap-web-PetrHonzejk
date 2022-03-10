@@ -18,3 +18,4 @@ Požadavky:
 * modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
 
 https://petrhonzejk.github.io/
+https://github.com/PetrHonzejk/PetrHonzejk.github.io
